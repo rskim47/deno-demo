@@ -1,4 +1,4 @@
-Testing out deno and it's functionalities 
+**Testing out deno and it's functionalities**
 
 Takeaways 
 * Always specify permission 
